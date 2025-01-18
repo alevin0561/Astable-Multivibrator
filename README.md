@@ -38,7 +38,7 @@ The PCB layout for this project is included in the repository. It provides a com
 - LED Blinking: The square wave output is fed to the LED, causing it to blink at a frequency determined by the values of the resistors and capacitors in the circuit.
 
 ## Getting Started
-1. Clone the Repository: git clone https://github.com/yourusername/blinking-led-circuit.git
+1. Clone the Repository: git clone [https://github.com/yourusername/blinking-led-circuit.git](https://github.com/alevin0561/Astable-Multivibrator)
 2. Assemble the Circuit: Follow the circuit design and PCB layout to assemble the components.
 3. Power Up: Connect the power supply to the circuit and observe the LED blinking.
 
