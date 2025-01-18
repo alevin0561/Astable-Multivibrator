@@ -27,7 +27,7 @@ PCB (Printed Circuit Board)
 ## Circuit Design
 The circuit is designed using basic electronic components. The astable multivibrator consists of two transistors, resistors, and capacitors arranged in a feedback loop to produce a square wave. The output of the multivibrator is connected to an LED, causing it to blink.
 
-![Schematic](https://github.com/alevin0561/Astable-Multivibrator/blob/main/LED%20Circuit%20Schematic.jpg)
+![Schematic](https://github.com/alevin0561/Astable-Multivibrator/blob/main/LEDBlinkingCircuitSchematic.jpg)
 
 ## PCB Layout
 
