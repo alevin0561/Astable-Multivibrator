@@ -33,6 +33,8 @@ The circuit is designed using basic electronic components. The astable multivibr
 
 The PCB layout for this project is included in the repository. It provides a compact and organized way to assemble the circuit. The layout ensures proper connections and minimizes the risk of errors during assembly.
 
+![Layout](https://github.com/alevin0561/Astable-Multivibrator/blob/main/LEDBlinkingLayout.jpg)
+
 ## How It Works
 
 - Astable Multivibrator: The core of the circuit is the astable multivibrator, which continuously switches between its two states, generating a square wave.
