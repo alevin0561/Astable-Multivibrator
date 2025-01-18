@@ -2,6 +2,8 @@
 
 This project demonstrates a simulated blinking LED circuit using an astable multivibrator, also known as a "flip-flop," to generate a square wave. The project includes both the circuit design and the PCB layout.
 
+[![Watch the video](https://github.com/alevin0561/Astable-Multivibrator/blob/main/Thumbnail.jpg)](https://github.com/alevin0561/Astable-Multivibrator/blob/main/PCB_View.mp4)
+
 ## Table of Contents
 - Introduction 
 - Components
